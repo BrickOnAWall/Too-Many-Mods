@@ -1,0 +1,8 @@
+{
+	// How fast the point showing you the stroke order on patterns moves
+	"patternPointSpeedMultiplier": 1.0,
+	// Whether the ctrl key will instead turn *off* the color gradient on patterns
+	"ctrlTogglesOffStrokeOrder": false,
+	// When using a staff, the distance from one dot you have to go to snap to the next dot, where 0.5 means 50% of the way.
+	"gridSnapThreshold": 0.5
+}
