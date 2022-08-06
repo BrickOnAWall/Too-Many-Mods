@@ -1,1 +1,14 @@
-.fabric
+.fabric/
+defaultconfigs/
+crash-reports/
+journeymap/
+logs/
+moddata/
+ModTranslations/
+not-enough-crashes/
+patchouli_books/
+saves/
+hs_err_pid6484
+options
+usercache
+minecraftinstance
