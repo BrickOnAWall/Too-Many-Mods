@@ -1,6 +1,6 @@
 {
   "animation_settings": {
-    "animation": true,
+    "animation": false,
     "water": true,
     "lava": true,
     "fire": true,
@@ -9,11 +9,29 @@
     "sculk_sensor": true
   },
   "particle_settings": {
-    "particles": true,
-    "rain_splash": true,
-    "block_break": true,
-    "block_breaking": true,
-    "other": {}
+    "particles": false,
+    "rain_splash": false,
+    "block_break": false,
+    "block_breaking": false,
+    "other": {
+      "farmersdelight:star": false,
+      "minecraft:ambient_entity_effect": false,
+      "minecraft:angry_villager": false,
+      "minecraft:ash": false,
+      "minecraft:block": false,
+      "minecraft:block_marker": false,
+      "minecraft:bubble": false,
+      "minecraft:bubble_column_up": false,
+      "minecraft:bubble_pop": false,
+      "minecraft:campfire_cosy_smoke": false,
+      "minecraft:campfire_signal_smoke": false,
+      "minecraft:cloud": false,
+      "minecraft:composter": false,
+      "minecraft:crimson_spore": false,
+      "minecraft:crit": false,
+      "minecraft:current_down": false,
+      "minecraft:damage_indicator": false
+    }
   },
   "detail_settings": {
     "sky": true,

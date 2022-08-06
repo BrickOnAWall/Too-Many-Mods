@@ -21,27 +21,39 @@ mode = "fancy"
 
 			[light_sources.settings.entities.minecraft]
 				chicken = true
+				ravager = true
 				bee = true
+				axolotl = true
 				donkey = true
 				cow = true
 				chest_minecart = true
+				fox = true
 				pig = true
+				pillager = true
 				iron_golem = true
 				skeleton = true
 				bat = true
+				cat = true
 				zombie = true
+				armor_stand = true
 				drowned = true
 				sheep = true
 				player = true
 				item = true
 				villager = true
+				wolf = true
 				salmon = true
 				tnt_minecart = true
 				zombie_villager = true
 				furnace_minecart = true
 				item_frame = true
+				horse = true
+				hopper_minecart = true
+				vindicator = true
 				minecart = true
+				painting = true
 				glow_squid = true
+				cod = true
 				glow_item_frame = false
 				squid = true
 				spider = true
@@ -54,16 +66,64 @@ mode = "fancy"
 				ghoul = true
 
 			[light_sources.settings.entities.betteranimalsplus]
-				boar = true
-				lamprey = true
-				horseshoecrab = true
+				deer = true
+				shark = true
+				jellyfish = true
 				goose = true
 				songbird = true
-				coyote = true
 				eel_freshwater = true
-				pheasant = true
-				crab = true
+				moose = true
 				badger = true
+				boar = true
+				squirrel = true
+				whale = true
+				lamprey = true
+				horseshoecrab = true
+				turkey = true
+				coyote = true
+				pheasant = true
+				lammergeier = true
+				crab = true
+
+			[light_sources.settings.entities.adventurez]
+				amethyst_golem = true
+
+			[light_sources.settings.entities.earth]
+				carboranea = true
+				rubro = true
+
+			[light_sources.settings.entities.whisperwoods]
+				moth = true
+				wisp = true
+
+			[light_sources.settings.entities.mobz]
+				knight2 = true
+				armored = true
+				toad = true
+				fulliron = true
+				boar3 = true
+				spi = true
+				katherine = true
+				fast = true
+				brownbear = true
+				spo = true
+				fiora = true
+				slimo = true
+				skeli2 = true
+				skeli4 = true
+				dwarf = true
+				tank = true
+				gchicken = true
+
+			[light_sources.settings.entities.ecologics]
+				squirrel = true
+
+			[light_sources.settings.entities.creatures_of_the_snow]
+				narwhal = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				dripstone_creeper = true
+				cave_creeper = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true

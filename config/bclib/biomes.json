@@ -373,5 +373,19 @@
       "vertical [default: false]": false,
       "terrain_height [default: 0.1]": 0.1
     }
+  },
+  "enderscape": {
+    "celestial_plains": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.75]": 1.75,
+      "vertical [default: false]": false,
+      "terrain_height [default: 0.1]": 0.1
+    },
+    "celestial_islands": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.75]": 1.75,
+      "vertical [default: false]": false,
+      "terrain_height [default: 0.1]": 0.1
+    }
   }
 }

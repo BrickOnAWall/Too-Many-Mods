@@ -10,7 +10,8 @@ patchouli_books/
 saves/
 hs_err_pid6484
 options
-usercache
-minecraftinstance
-options
-usercache
+usercache.json
+minecraftinstance.json
+options.txt
+essential/
+patchouli_data.json

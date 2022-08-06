@@ -153,6 +153,14 @@ If your settings in this file seem to have to no effect on the generation of the
 			{
 				"data": "betterend:ice_starfield",
 				"weight": 2
+			},
+			{
+				"data": "enderscape:celestial_plains",
+				"weight": 2
+			},
+			{
+				"data": "enderscape:celestial_islands",
+				"weight": 2
 			}
 		]
 	},
