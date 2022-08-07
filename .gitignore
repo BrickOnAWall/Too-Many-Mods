@@ -15,3 +15,7 @@ minecraftinstance.json
 options.txt
 essential/
 patchouli_data.json
+SERVER/
+.curseclient
+.gitignore
+

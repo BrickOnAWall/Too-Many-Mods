@@ -69,6 +69,7 @@ mode = "fancy"
 			[light_sources.settings.entities.betteranimalsplus]
 				deer = true
 				shark = true
+				reindeer = true
 				jellyfish = true
 				goose = true
 				songbird = true
@@ -122,6 +123,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.ecologics]
 				squirrel = true
+				penguin = true
 
 			[light_sources.settings.entities.creatures_of_the_snow]
 				narwhal = true
